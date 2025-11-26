@@ -116,7 +116,7 @@ MIT License - feel free to use this code for your own projects!
 
 - **Original App**: [Try the Pomodoro Timer](./index.html)
 - **Full Blog Post**: [Read the detailed writeup](./blog-post.html)
-- **Author**: [Your Name](https://github.com/sumo146-uxAI)
+- **Author**: [sumo146-uxAI](https://github.com/sumo146-uxAI)
 
 ## 🙏 Acknowledgments
 
@@ -130,5 +130,6 @@ Built with assistance from:
 **Built in under 2 hours • Zero dependencies • Production-ready • Fully documented**
 
 ⭐ Star this repo if you found it helpful!
+
 
 
