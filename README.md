@@ -84,22 +84,6 @@ The blog post includes:
 
 No build process required! Just open the HTML files in any modern browser.
 
-### Deploy to GitHub Pages
-1. Fork/clone this repository
-2. Go to **Settings** → **Pages**
-3. Select **Source**: `main` branch
-4. Your blog will be live at: `https://yourusername.github.io/pomodoro-blog/`
-
-## 📖 Blog Sections
-
-1. **🛠️ Required Tools** - Tools and AI model used (Claude 3.5 Sonnet)
-2. **📝 The Prompt** - Three-part prompt structure breakdown
-3. **✨ The Output** - Deliverables, features, screenshots, and live demo
-4. **🎨 Visual Design Highlights** - Design principles and aesthetic choices
-5. **🏆 Design Excellence** - Technical implementations with code examples
-6. **💎 Code Quality** - Best practices and performance metrics
-7. **🎉 Conclusion** - Key takeaways and lessons learned
-
 ## 🎨 Design System
 
 The application follows a comprehensive design system:
@@ -132,7 +116,7 @@ MIT License - feel free to use this code for your own projects!
 
 - **Original App**: [Try the Pomodoro Timer](./index.html)
 - **Full Blog Post**: [Read the detailed writeup](./blog-post.html)
-- **Author**: [Your Name](https://github.com/yourusername)
+- **Author**: [Your Name](https://github.com/sumo146-uxAI)
 
 ## 🙏 Acknowledgments
 
@@ -146,3 +130,4 @@ Built with assistance from:
 **Built in under 2 hours • Zero dependencies • Production-ready • Fully documented**
 
 ⭐ Star this repo if you found it helpful!
+
