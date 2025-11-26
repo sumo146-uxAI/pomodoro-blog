@@ -4,9 +4,9 @@ A comprehensive blog post documenting the creation of a production-ready Pomodor
 
 ## 🔗 Live Demo
 
-**[Read the Full Blog Post](https://yourusername.github.io/pomodoro-blog/blog-post.html)** *(Update with your actual URL)*
+**[Read the Full Blog Post](https://sumo146-uxAI.github.io/pomodoro-blog/blog-post.html)** *(Update with your actual URL)*
 
-**[Try the Pomodoro Timer](https://yourusername.github.io/pomodoro-blog/index.html)** *(Update with your actual URL)*
+**[Try the Pomodoro Timer](https://sumo146-uxAI.github.io/pomodoro-blog/index.html)** *(Update with your actual URL)*
 
 ## ✨ What's Inside
 
@@ -130,4 +130,5 @@ Built with assistance from:
 **Built in under 2 hours • Zero dependencies • Production-ready • Fully documented**
 
 ⭐ Star this repo if you found it helpful!
+
 
